@@ -1,5 +1,5 @@
 import argparse
-from utils import get_my_ip, convert
+from .utils import get_my_ip, convert
 
 
 def main():
